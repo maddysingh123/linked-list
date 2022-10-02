@@ -1,0 +1,3 @@
+# linked-list
+#clear your concept by learning linked list ..
+#Add interview ask question on linked list in this repo...
